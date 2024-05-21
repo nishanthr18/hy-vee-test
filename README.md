@@ -1,6 +1,5 @@
-# hy-vee-test
-
 ## ABOUT TECH STACK
+
 Nextjs
 Tailwind
 TypeScript
